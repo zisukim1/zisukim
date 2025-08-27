@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>내 첫 웹페이지</title>
+    <style>
+        body { font-family: Arial; text-align: center; padding: 50px; }
+    </style>
+</head>
+<body>
+    <h1>안녕하세요! 🎉</h1>
+    <p>제 첫 번째 GitHub Pages 웹사이트입니다.</p>
+    <p>앞으로 여기에 더 많은 내용을 추가할 예정이에요!</p>
+</body>
+</html>
